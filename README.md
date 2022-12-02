@@ -90,7 +90,7 @@ Landing Page, responsive developed for the company EADIC, form with API integrat
 
 ## Screenshots Project
 
-![Landing](https://stupefied-kepler.143-198-236-91.plesk.page/img/landing/master-online.png)
+![Landing](https://nelson-dev.tech/img/landing/master-online.png)
 
 
 
